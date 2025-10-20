@@ -6,7 +6,7 @@
 - 下载地址：https://pan.baidu.com/s/1W21jWApDhJfqskm_F2XJrQ?pwd=cfz0
 - 测试数据包：https://pan.baidu.com/s/15r3dyz0FdXUcsJBj1yI9Sg?pwd=l4tg &nbsp;&nbsp;
   ![image](images/20241009.png)
-- 官方网站：https://www.hylab.cn/%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE/%E8%B6%85%E8%85%BE%E4%B8%89%E7%BB%B4%E7%BC%96%E8%BE%91%E5%99%A8/
+- 官方网站：https://www.hylab.cn/wiki/%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE/%E8%B6%85%E8%85%BE%E4%B8%89%E7%BB%B4%E7%BC%96%E8%BE%91%E5%99%A8
 
 ## 技术栈
 
