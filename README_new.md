@@ -3,7 +3,6 @@
 - 版本：0.0.1_alpha20241009
 - 简介：基于 Three.js 的三维场景编辑器。
 - 端口：3000
-- 官方网站：https://www.hylab.cn/
 - 产品文档：https://www.hylab.cn/product?parent_id=7413018085055139840
 - 产品Demo：https://www.hylab.cn/demo/shadow-editor-pro/
 - 下载地址：https://pan.baidu.com/s/1W21jWApDhJfqskm_F2XJrQ?pwd=cfz0
