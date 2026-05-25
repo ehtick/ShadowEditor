@@ -3,12 +3,15 @@
 - 版本：0.0.1_alpha20241009
 - 简介：基于 Three.js 的三维场景编辑器。
 - 端口：3000
+- 官方网站：https://www.hylab.cn/
+- 产品文档：https://www.hylab.cn/product?parent_id=7413018085055139840
+- 产品Demo：https://www.hylab.cn/demo/shadow-editor-pro/
 - 下载地址：https://pan.baidu.com/s/1W21jWApDhJfqskm_F2XJrQ?pwd=cfz0
-- 测试数据包：https://pan.baidu.com/s/15r3dyz0FdXUcsJBj1yI9Sg?pwd=l4tg &nbsp;&nbsp;
-  ![image](images/20241009.png)
-- 官方网站：https://www.hylab.cn/wiki/%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE/%E8%B6%85%E8%85%BE%E4%B8%89%E7%BB%B4%E7%BC%96%E8%BE%91%E5%99%A8
+- 测试数据包：https://pan.baidu.com/s/15r3dyz0FdXUcsJBj1yI9Sg?pwd=l4tg
 
-## 技术栈
+![image](images/20241009.png)
+
+# 技术栈
 
 - electron: ^31.1.0
 - nest.js：^10.3.9
@@ -18,13 +21,13 @@
 - ant-design-vue：^4.2.3
 - three.js：^0.166.0
 
-## 商业授权
+# 商业授权
 
 如果您有需要，请联系：  
 QQ：930372551  
 微信号：fwlabr
 
-## 常见问题
+# 常见问题
 
 跟开源版的主要区别是什么？
 

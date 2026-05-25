@@ -4,7 +4,7 @@ English / [中文](README_zh.md) &nbsp;&nbsp; |
 &nbsp;&nbsp; <a href="https://github.com/tengge1/ShadowEditor/releases/download/v0.6.0/ShadowEditorServer-win32-x64.zip" title="Requires `Visual C++ Redistributable for Visual Studio 2015`">
 Windows Server</a> &nbsp;&nbsp; |
 &nbsp;&nbsp; <a href="https://github.com/tengge1/ShadowEditor/releases/download/v0.6.0/ShadowEditorServer-linux-x64.zip">
-Ubuntu Server</a> &nbsp;&nbsp; | &nbsp;&nbsp; [Web Demo](https://tengge1.github.io/ShadowEditor-examples/) | &nbsp;&nbsp; [official Website](https://www.hylab.cn/wiki/%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE/ShadowEditor)
+Ubuntu Server</a> &nbsp;&nbsp; | &nbsp;&nbsp; [Web Demo](https://www.hylab.cn/demo/shadoweditor/) | &nbsp;&nbsp; [official Website](https://www.hylab.cn/product?parent_id=7456863220071010304)
 
 Note: The server is a compiled version with built-in mongodb, execute `start.bat` or `start.sh` to start, and
 visit `http://localhost:2020` in Google Chrome. Windows version
@@ -24,8 +24,8 @@ requires `Visual C++ Redistributable for Visual Studio 2015`.
 - Version: v0.6.1 (Coming Soon)
 - Description: Cross-platform 3D scene editor based on three.js, golang and mongodb.
 - Source: [GitHub](https://github.com/tengge1/ShadowEditor) [Gitee](https://gitee.com/tengge1/ShadowEditor) |
-  Document: [Gitee](https://gitee.com/tengge1/ShadowEditor/wikis/pages) |
-  Demo: [GitHub](https://tengge1.github.io/ShadowEditor-examples/) [Gitee](http://tengge1.gitee.io/shadoweditor-examples/)
+  Document: [超腾开源](https://www.hylab.cn/product?parent_id=7456863220071010304) |
+  Demo: [超腾开源](https://www.hylab.cn/demo/shadoweditor/)
   |
   Video: [Weibo](https://weibo.com/tv/v/IjIn9AyvX?fid=1034:4446986821107725) [Bilibili](https://www.bilibili.com/video/av78428475?from=search&seid=9203731141485399611)
   | Assets: [BaiduNetdisk(rfja)](https://pan.baidu.com/s/1BYLPyHJuc2r0bS9Te3SRjA)
