@@ -28,7 +28,7 @@ Linux 服务端</a> &nbsp;&nbsp; | &nbsp;&nbsp; [Web 演示](https://www.hylab.c
   视频：[微博](https://weibo.com/tv/v/IjIn9AyvX?fid=1034:4446986821107725) [Bilibili](https://www.bilibili.com/video/av78428475?from=search&seid=9203731141485399611)
   | 资源：[百度网盘 rfja](https://pan.baidu.com/s/1BYLPyHJuc2r0bS9Te3SRjA)
 - 技术栈：html、css、javascript、rollup、react.js、webgl、three.js、golang、mongodb、nodejs、electron、protocol buffers。
-- 如果对您有帮助，请[【捐赠】](https://gitee.com/tengge1/ShadowEditor)支持项目发展。谢谢！
+- 如果对您有帮助，请[【捐赠】](https://www.hylab.cn/product/shadoweditor)支持项目发展。谢谢！
 
 **开源版**
 

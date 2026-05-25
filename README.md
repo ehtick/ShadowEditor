@@ -31,7 +31,7 @@ requires `Visual C++ Redistributable for Visual Studio 2015`.
   | Assets: [BaiduNetdisk(rfja)](https://pan.baidu.com/s/1BYLPyHJuc2r0bS9Te3SRjA)
 - Technology Stack: html, css, javascript, rollup, react.js, webgl, three.js, golang, mongodb, nodejs, electron,
   protocol buffers.
-- If helpful to you, please [DOnate](https://gitee.com/tengge1/ShadowEditor) to support us. thank you!
+- If helpful to you, please [DOnate](https://www.hylab.cn/product/shadoweditor) to support us. thank you!
 
 **Open Source Version**
 
